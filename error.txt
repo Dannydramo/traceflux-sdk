@@ -1,0 +1,5 @@
+
+> @traceflux/node@0.2.1 build
+> tsc
+
+src/frameworks/express/routeExtractor.ts(3,10): error TS2724: '"../../core/traceflux"' has no exported member named 'traceflux'. Did you mean 'Traceflux'?
